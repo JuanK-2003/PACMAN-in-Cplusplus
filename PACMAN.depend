@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1594070425 source:c:\users\personal\desktop\programas carlitos\pacman\main.cpp
+	<windows.h>
+	<iostream>
+	<conio.h>
+	<stdio.h>
+
